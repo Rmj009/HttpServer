@@ -1,0 +1,19 @@
+{
+    "name": "mongodb_crud",
+    "version": "1.0.0",
+    "main": "001",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "null"
+    ],
+    "author": "kouki",
+    "license": "ISC",
+    "dependencies": {
+      "mongodb": "^3.0.4"
+    },
+    "devDependencies": {},
+    "description": ""
+  }
+  
